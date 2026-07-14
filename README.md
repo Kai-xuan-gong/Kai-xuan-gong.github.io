@@ -1,1 +1,0 @@
-# Kaixuan Gong Portfolio

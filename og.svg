@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="龚凯轩作品集 Open Graph">
+  <rect width="1200" height="630" fill="#f7f4ee"/>
+  <path d="M0 120H1200M0 260H1200M0 400H1200M0 540H1200M180 0V630M420 0V630M660 0V630M900 0V630" stroke="#24262a" stroke-opacity=".08"/>
+  <rect x="96" y="86" width="1008" height="458" rx="8" fill="#fffdf8" stroke="#24262a" stroke-opacity=".16"/>
+  <text x="136" y="180" font-family="Arial, 'PingFang SC', sans-serif" font-size="32" font-weight="700" fill="#315c6f">KAIXUAN GONG</text>
+  <text x="136" y="282" font-family="Arial, 'PingFang SC', sans-serif" font-size="84" font-weight="700" fill="#24262a">龚凯轩</text>
+  <text x="136" y="356" font-family="Arial, 'PingFang SC', sans-serif" font-size="36" font-weight="600" fill="#24262a">产品策划 / 产品运营作品集</text>
+  <text x="136" y="438" font-family="Arial, 'PingFang SC', sans-serif" font-size="28" fill="#686b70">把用户洞察转化为产品方案，把内容运营转化为增长结果。</text>
+  <circle cx="960" cy="208" r="66" fill="#567c8d" fill-opacity=".18"/>
+  <circle cx="1018" cy="318" r="88" fill="#8d7a3f" fill-opacity=".14"/>
+  <rect x="860" y="390" width="160" height="78" rx="8" fill="#315c6f"/>
+  <text x="940" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#fffdf8">Portfolio</text>
+</svg>
