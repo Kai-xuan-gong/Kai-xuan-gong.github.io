@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>/</loc></url>
-  <url><loc>/reader.html</loc></url>
-  <url><loc>/projects</loc></url>
-  <url><loc>/projects/jstor</loc></url>
-  <url><loc>/projects/echocraft</loc></url>
-  <url><loc>/projects/netease-sky</loc></url>
-  <url><loc>/projects/mango-tv</loc></url>
-  <url><loc>/capabilities</loc></url>
-  <url><loc>/about</loc></url>
+  <url><loc>https://kai-xuan-gong.github.io/</loc></url>
+  <url><loc>https://kai-xuan-gong.github.io/projects/netease-sky</loc></url>
+  <url><loc>https://kai-xuan-gong.github.io/projects/jstor</loc></url>
+  <url><loc>https://kai-xuan-gong.github.io/projects/cma-xiaohongshu</loc></url>
+  <url><loc>https://kai-xuan-gong.github.io/projects/mango-tv</loc></url>
+  <url><loc>https://kai-xuan-gong.github.io/projects/echocraft</loc></url>
 </urlset>
