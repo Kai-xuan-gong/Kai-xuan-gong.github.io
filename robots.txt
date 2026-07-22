@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kai-xuan-gong.github.io/sitemap.xml
+
+Sitemap: /sitemap.xml
